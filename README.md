@@ -1,3 +1,4 @@
+![logo](https://github.com/pranitdere2004-blip/pranitdere2004-blip/blob/main/Data%20Science%20%26%20Analytics%20Learner.png)
 <h1 align="center">Hi 👋, I'm Pranit Dere</h1>
 <h3 align="center">A Data Science & Analytics learner from India</h3>
 
